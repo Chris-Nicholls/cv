@@ -1,7 +1,7 @@
  # Chris Nicholls CV
 
 ### Improbable
-##### May 2014 - Present
+##### May 2013 - Present
 
 I have been working at Improbable more or less since the company started, and as such I have had many different roles here.
 Improbable builds SpatialOS, a distributed simulation platform for games.
@@ -23,17 +23,17 @@ Most recently, I have been leading the Production Research team.
 The aim of the team is to probe the boundaries of SpatialOS; to understand exactly what it can and can't do and back up our understanding with real data.
 
 ### GSA Capital
-##### Sep 2012 -> Jan 2014
+##### Sep 2011 -> Jan 2013
 
 During my time at GSA Capital, a high-frequency systematic hedge fund, I worked in two of the core research technology
 teams: the execution group responsible for the technology behind executing the orders, and the data services group.
-My work was been broad-ranging, largely focused on improving robustness and availability of the internal systems, and ensuring that the data we provided researchers is consistent.
+My work was broad-ranging, largely focused on improving robustness and availability of the internal systems, and ensuring that the data we provided researchers is consistent.
 Most of the production development was either Java or Python, while much of my non-production testing and
 analysis done in with Haskell.
 
 ### Detica
-##### Sep 2011 -> Sep 2012
-While at Detica, I worked on automatic insurance fraud detection using large scale network analysis.
+##### Sep 2010 -> Sep 2011
+While at Detica, I worked on automatic insurance fraud detection using network analysis of large data sets.
 
 My role was largely that of a Java developer, integrating a new data-scoring tool into our model.
 I spent some time working on our in-house compiler, a SAS-like language called DataServer.
